@@ -1,8 +1,8 @@
 # hhgreg
 Mod for MK WII
 
-#How to install:
+# How to install:
 https://sites.google.com/view/someonesgarbage/install
 
-#More help pls
+# More help pls
 https://bento.me/huh
